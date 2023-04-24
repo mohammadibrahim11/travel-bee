@@ -63,7 +63,7 @@ const Packages = () => {
             <p>
               {" "}
               <Link to="/findFlights" className="header-icon-text">
-                See Flights
+                 Book Flights
               </Link>
             </p>
           </div>
@@ -75,7 +75,7 @@ const Packages = () => {
             />
             <p>
               <Link to="/findHotels" className="header-icon-text">
-                See Hotels
+                Book Hotels
               </Link>
             </p>
           </div>
@@ -88,7 +88,7 @@ const Packages = () => {
             <p>
               <Link to="/packages" className="header-icon-text">
                 {" "}
-                See Packages
+                Book Packages
               </Link>
             </p>
           </div>
