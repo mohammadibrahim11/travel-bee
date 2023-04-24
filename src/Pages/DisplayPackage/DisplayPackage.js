@@ -22,7 +22,7 @@ const DisplayPackage = ({ packageData }) => {
     // }
     // setCart(newCart);
 
-    fetch("http://localhost:5000/favourites", {
+    fetch("https://travel-bee-server-nine.vercel.app/favourites", {
       method: "POST",
       headers: {
         "content-type": "application/json",

@@ -18,7 +18,7 @@ const CheckOutForm = ({ data }) => {
   const elements = useElements();
 
   useEffect(() => {
-    fetch("http://localhost:5000/create-payment-intent", {
+    fetch("https://travel-bee-server-nine.vercel.app/create-payment-intent", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -86,7 +86,7 @@ const CheckOutForm = ({ data }) => {
         email,
         // name: name,
       };
-      fetch("http://localhost:5000/payments", {
+      fetch("https://travel-bee-server-nine.vercel.app/payments", {
         method: "POST",
         headers: {
           "content-type": "application/json",

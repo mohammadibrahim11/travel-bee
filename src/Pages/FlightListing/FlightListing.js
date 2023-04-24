@@ -17,7 +17,7 @@ import FindFlights from "../FindFlights/FindFlights";
 
   // useEffect(() => {
   //     if (location?.search) {
-  //         axios.get(`http://localhost:5000/category${location?.search}`)
+  //         axios.get(`https://travel-bee-server-nine.vercel.app/category${location?.search}`)
   //             .then(res => {
   //                 if (res.data) {
   //                   setHotelNames(res.data)

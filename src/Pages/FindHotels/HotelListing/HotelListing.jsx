@@ -41,7 +41,7 @@ const HotelListing = () => {
     }
 
     const res = await fetch(
-      `http://localhost:5000/category/search/getHotelBySearch?price=${price}`
+      `https://travel-bee-server-nine.vercel.app/category/search/getHotelBySearch?price=${price}`
     );
 
     if (!res.ok) alert("Something went wrong");
@@ -59,7 +59,7 @@ const HotelListing = () => {
 
   useEffect(() => {
     fetch(
-      `http://localhost:5000/category/filter/v2?brfFilter=${
+      `https://travel-bee-server-nine.vercel.app/category/filter/v2?brfFilter=${
         brfFilter || ""
       }&frIntFilter=${frIntFilter || ""}&freeAirFilter=${
         freeAirFilter || ""
@@ -79,7 +79,7 @@ const HotelListing = () => {
   useEffect(() => {
     if (location?.search) {
       axios
-        .get(`http://localhost:5000/category${location?.search}`)
+        .get(`https://travel-bee-server-nine.vercel.app/category${location?.search}`)
         .then((res) => {
           if (res.data) {
             setHotelNames(res.data);
@@ -106,7 +106,7 @@ const HotelListing = () => {
     }
 
     const res = await fetch(
-      `http://localhost:5000/category/search/getHotelBySearch?city=${city}&room=${room}`
+      `https://travel-bee-server-nine.vercel.app/category/search/getHotelBySearch?city=${city}&room=${room}`
     );
 
     if (!res.ok) alert("Something went wrong");

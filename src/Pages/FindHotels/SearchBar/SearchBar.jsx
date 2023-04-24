@@ -19,7 +19,7 @@ const SearchBar = () => {
     }
 
     const res = await fetch(
-      `http://localhost:5000/category/search/getHotelBySearch?city=${city}&room=${room}`
+      `https://travel-bee-server-nine.vercel.app/category/search/getHotelBySearch?city=${city}&room=${room}`
     );
 
     if (!res.ok) alert("Something went wrong");

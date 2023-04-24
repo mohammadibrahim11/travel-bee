@@ -7,7 +7,7 @@ import "./UserBookings.css";
 
 const UserBookings = () => {
   const { user } = useContext(AuthContext);
-  const url = `http://localhost:5000/bookings?email=${user?.email}`;
+  const url = `https://travel-bee-server-nine.vercel.app/bookings?email=${user?.email}`;
 
   const { data: bookings = [] } = useQuery({
     queryKey: ["userookings", user?.email],

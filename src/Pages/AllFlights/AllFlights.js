@@ -37,7 +37,7 @@ const AllFlights = () => {
     const tclass = classRef.current.value;
 
     const res = await fetch(
-      `http://localhost:5000/api/flights?location=${location}&class=${tclass}&trip=${trip}`
+      `https://travel-bee-server-nine.vercel.app/api/flights?location=${location}&class=${tclass}&trip=${trip}`
     );
 
     if (!res.ok) alert("Something went wrong");
@@ -122,7 +122,7 @@ const AllFlights = () => {
 
   useEffect(() => {
     fetch(
-      `http://localhost:5000/api/flights?airlines_name=${filterQueries}&trip=${tripQueries}`
+      `https://travel-bee-server-nine.vercel.app/api/flights?airlines_name=${filterQueries}&trip=${tripQueries}`
     )
       .then((res) => res.json())
       .then((data) => {
@@ -145,7 +145,7 @@ const AllFlights = () => {
     }
 
     const res = await fetch(
-      `http://localhost:5000/api/flights?price={"min":${minPrice},"max":${maxPrice}}`
+      `https://travel-bee-server-nine.vercel.app/api/flights?price={"min":${minPrice},"max":${maxPrice}}`
     );
 
     if (!res.ok) alert("Something went wrong");
@@ -157,7 +157,7 @@ const AllFlights = () => {
 
   useEffect(() => {
     fetch(
-      `http://localhost:5000/api/flights?pageConfig={"content":40,"page":1}`
+      `https://travel-bee-server-nine.vercel.app/api/flights?pageConfig={"content":40,"page":1}`
     )
       .then((res) => res.json())
       .then((data) => {
@@ -165,7 +165,7 @@ const AllFlights = () => {
       });
   }, []);
   const handleAddToFavourite = (filter) => {
-    fetch("http://localhost:5000/favouritesFlight", {
+    fetch("https://travel-bee-server-nine.vercel.app/favouritesFlight", {
       method: "POST",
       headers: {
         "content-type": "application/json",

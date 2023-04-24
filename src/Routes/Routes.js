@@ -72,9 +72,9 @@ export const router = createBrowserRouter([
       {
         path: "/flightDetails/:id",
         element: <FlightDetails></FlightDetails>,
-        // loader: http://localhost:5000/api/flights/6416b5e2b758fbc5342d890d
+        // loader: https://travel-bee-server-nine.vercel.app/api/flights/6416b5e2b758fbc5342d890d
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/api/flights/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/api/flights/${params.id}`),
       },
       {
         path: "/findHotels",
@@ -88,7 +88,7 @@ export const router = createBrowserRouter([
         path: "/category/:id",
         element: <HotelDetails></HotelDetails>,
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/category/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/category/${params.id}`),
       },
       {
         path: "/category/search",
@@ -132,7 +132,7 @@ export const router = createBrowserRouter([
         path: "/tourGuide/:id",
         element: <GuideDetails></GuideDetails>,
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/tourGuide/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/tourGuide/${params.id}`),
       },
       {
         path: "/aboutus",
@@ -150,7 +150,7 @@ export const router = createBrowserRouter([
         path: "/carDetails/:id",
         element: <CarDetails></CarDetails>,
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/carServices/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/carServices/${params.id}`),
       },
       {
         path: "/packages",
@@ -165,7 +165,7 @@ export const router = createBrowserRouter([
         path: "/packages/:id",
         element: <PackagesDetails></PackagesDetails>,
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/packages/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/packages/${params.id}`),
       },
       {
         path: "/PackageBookingDetails/:id",
@@ -175,7 +175,7 @@ export const router = createBrowserRouter([
           </PrivateRoutes>
         ),
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/packages/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/packages/${params.id}`),
       },
       {
         path: "/hotelBookingDetails/:id",
@@ -185,7 +185,7 @@ export const router = createBrowserRouter([
           </PrivateRoutes>
         ),
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/category/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/category/${params.id}`),
       },
       {
         path: "/flightBookingDetails/:id",
@@ -195,25 +195,25 @@ export const router = createBrowserRouter([
           </PrivateRoutes>
         ),
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/api/flights/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/api/flights/${params.id}`),
       },
       {
         path: "/bookingInfo",
         element: <BookingInfo></BookingInfo>,
         // loader: async ({ params }) =>
-        //   fetch(`http://localhost:5000/bookings/${params.id}`),
+        //   fetch(`https://travel-bee-server-nine.vercel.app/bookings/${params.id}`),
       },
       {
         path: "/paymentcard/:id",
         element: <PaymentCard></PaymentCard>,
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/bookings/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/bookings/${params.id}`),
       },
       {
         path: "/downloadpdf/:id",
         element: <DownloadPdf></DownloadPdf>,
         loader: async ({ params }) =>
-          fetch(`http://localhost:5000/bookings/${params.id}`),
+          fetch(`https://travel-bee-server-nine.vercel.app/bookings/${params.id}`),
       },
     ],
   },

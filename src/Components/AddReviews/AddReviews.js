@@ -26,7 +26,7 @@ const AddReviews = () => {
     };
 
     if (user) {
-      fetch("http://localhost:5000/reviews", {
+      fetch("https://travel-bee-server-nine.vercel.app/reviews", {
         method: "POST",
         headers: {
           "content-type": "application/json",

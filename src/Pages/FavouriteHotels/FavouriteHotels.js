@@ -17,7 +17,7 @@ const FavouriteHotels = () => {
   const handleDelete = (_id) => {
     const agree = window.confirm("are you sure you want to delete?");
     if (agree) {
-      fetch(`http://localhost:5000/favouritesHotel/${_id}`, {
+      fetch(`https://travel-bee-server-nine.vercel.app/favouritesHotel/${_id}`, {
         method: "DELETE",
       })
         .then((res) => res.json())
@@ -36,7 +36,7 @@ const FavouriteHotels = () => {
   // const handleRemove = (id) => {
   //   const agree = window.confirm("are you sure you want to delete?");
   //   if (agree) {
-  //     fetch(`http://localhost:5000/favouritesHotel/${id}`, {
+  //     fetch(`https://travel-bee-server-nine.vercel.app/favouritesHotel/${id}`, {
   //       method: "DELETE",
   //     })
   //       .then((res) => res.json())

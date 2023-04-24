@@ -43,7 +43,7 @@ const LogIn = () => {
         // setUser(user);
         setError("");
         if (user) {
-          fetch("http://localhost:5000/users", {
+          fetch("https://travel-bee-server-nine.vercel.app/users", {
             method: "POST",
             headers: {
               "content-type": "application/json",
@@ -84,7 +84,7 @@ const LogIn = () => {
         const user = result.user;
         console.log(user);
         if (user) {
-          fetch("http://localhost:5000/users", {
+          fetch("https://travel-bee-server-nine.vercel.app/users", {
             method: "POST",
             headers: {
               "content-type": "application/json",

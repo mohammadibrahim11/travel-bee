@@ -28,7 +28,7 @@ const Packages = () => {
 
   useEffect(() => {
     fetch(
-      `http://localhost:5000/packages?intFilter=${intFilter || ""}&dmsFilter=${
+      `https://travel-bee-server-nine.vercel.app/packages?intFilter=${intFilter || ""}&dmsFilter=${
         dmsFilter || ""
       }&tpFilter=${tpFilter || ""}&twpFilter=${twpFilter || ""}&thrFilter=${
         thrFilter || ""

@@ -10,7 +10,7 @@ const AllHotelListing = ({ hotelName }) => {
   const navigate = useNavigate();
   const { title, city, price, avgRating, cafe, photo, createdAt } = hotelName;
   const handleAddToFavourite = (hotelName) => {
-    fetch("http://localhost:5000/favouritesHotel", {
+    fetch("https://travel-bee-server-nine.vercel.app/favouritesHotel", {
       method: "POST",
       headers: {
         "content-type": "application/json",

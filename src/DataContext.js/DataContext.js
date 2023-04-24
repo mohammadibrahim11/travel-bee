@@ -37,7 +37,7 @@ const DataContext = ({ children }) => {
   );
 
   useEffect(() => {
-    fetch("http://localhost:5000/places")
+    fetch("https://travel-bee-server-nine.vercel.app/places")
       .then((res) => res.json())
       .then((data) => {
         setPlaces(data);
@@ -46,7 +46,7 @@ const DataContext = ({ children }) => {
   }, []);
 
   useEffect(() => {
-    fetch("http://localhost:5000/reviews")
+    fetch("https://travel-bee-server-nine.vercel.app/reviews")
       .then((res) => res.json())
       .then((data) => {
         setReviews(data);
@@ -55,7 +55,7 @@ const DataContext = ({ children }) => {
   }, []);
 
   useEffect(() => {
-    fetch("http://localhost:5000/tourGuide")
+    fetch("https://travel-bee-server-nine.vercel.app/tourGuide")
       .then((res) => res.json())
       .then((data) => {
         setTourGuide(data);
@@ -64,7 +64,7 @@ const DataContext = ({ children }) => {
   }, []);
 
   useEffect(() => {
-    fetch("http://localhost:5000/packages")
+    fetch("https://travel-bee-server-nine.vercel.app/packages")
       .then((res) => res.json())
       .then((data) => {
         setPackages(data);
@@ -73,7 +73,7 @@ const DataContext = ({ children }) => {
   }, []);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/bookings/v2?email=${user?.email}`)
+    fetch(`https://travel-bee-server-nine.vercel.app/bookings/v2?email=${user?.email}`)
       .then((res) => res.json())
       .then((data) => {
         // console.log(data);
@@ -82,7 +82,7 @@ const DataContext = ({ children }) => {
   }, [user]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/favourites")
+    fetch("https://travel-bee-server-nine.vercel.app/favourites")
       .then((res) => res.json())
       .then((data) => {
         // console.log(data);
@@ -91,7 +91,7 @@ const DataContext = ({ children }) => {
   }, []);
 
   useEffect(() => {
-    fetch("http://localhost:5000/favouritesHotel")
+    fetch("https://travel-bee-server-nine.vercel.app/favouritesHotel")
       .then((res) => res.json())
       .then((data) => {
         // console.log(data);
@@ -100,7 +100,7 @@ const DataContext = ({ children }) => {
   }, []);
 
   useEffect(() => {
-    fetch("http://localhost:5000/favouritesFlight")
+    fetch("https://travel-bee-server-nine.vercel.app/favouritesFlight")
       .then((res) => res.json())
       .then((data) => {
         // console.log(data);
@@ -108,7 +108,7 @@ const DataContext = ({ children }) => {
       });
   }, []);
   useEffect(() => {
-    fetch("http://localhost:5000/users")
+    fetch("https://travel-bee-server-nine.vercel.app/users")
       .then((res) => res.json())
       .then((data) => {
         // console.log(data);
@@ -122,7 +122,7 @@ const DataContext = ({ children }) => {
 
   // useEffect(() => {
   //   fetch(
-  //     `http://localhost:5000/packages?intFilter=${intFilter || ""}&dmsFilter=${
+  //     `https://travel-bee-server-nine.vercel.app/packages?intFilter=${intFilter || ""}&dmsFilter=${
   //       dmsFilter || ""
   //     }&tpFilter=${tpFilter || ""}&twpFilter=${twpFilter || ""}&thrFilter=${
   //       thrFilter || ""
@@ -136,7 +136,7 @@ const DataContext = ({ children }) => {
   // }, [intFilter, dmsFilter, tpFilter, twpFilter, thrFilter]);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/carServices?insideCityFilter=${insideCityFilter || ""}&outSideCityFilter=${outSideCityFilter || ""}`)
+    fetch(`https://travel-bee-server-nine.vercel.app/carServices?insideCityFilter=${insideCityFilter || ""}&outSideCityFilter=${outSideCityFilter || ""}`)
       .then((res) => res.json())
       .then((data) => {
         setCarServices(data);
