@@ -65,7 +65,8 @@ const Navbar = () => {
               <li class="nav-item">
                 <Link class="nav-link" to="/rentCar">
                   {" "}
-                  <FaServicestack />Rent A car{" "}
+                  <FaServicestack />
+                  Rent A car{" "}
                 </Link>
               </li>
             </ul>
@@ -74,6 +75,7 @@ const Navbar = () => {
               {" "}
               <Link class="navbar-brand" to="/">
                 <img src="https://i.ibb.co/0fqZdTt/Logo.png" alt="" />
+                {/* <a href="https://ibb.co/j3V6gzP"><img src="https://i.ibb.co/qm0ykC3/9446009-4174409.jpg" alt="9446009-4174409" border="0"></a> */}
               </Link>
             </div>
 
@@ -237,6 +239,13 @@ const Navbar = () => {
                   <Link class="nav-link" to="/packages">
                     {" "}
                     <FiPackage /> Packages{" "}
+                  </Link>
+                </li>
+                <li class="nav-item">
+                  <Link class="nav-link" to="/rentCar">
+                    {" "}
+                    <FaServicestack />
+                    Rent A car{" "}
                   </Link>
                 </li>
                 <li class="nav-item">
