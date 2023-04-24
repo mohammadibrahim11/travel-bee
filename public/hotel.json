@@ -1,0 +1,664 @@
+[
+  {
+    "country": "Melbourne",
+    "title": "CVK Park Bosphorus Hotel Istanbul",
+    "city": "Istanbul, Turkey",
+    "price": 240,
+    "room": 3,
+    "guests": 5,
+    "freeBreakFast": "Free breakfast",
+    "freeAirportShuttle": "Free airport shuttle",
+    "fitness": "Fitness",
+    "normalRoom": "1 bed or 1 twin beds",
+    "deluxeRoom": "2 bed or 2 twin beds, city view",
+    "normalPrice": 120,
+    "deluxePrice": 220,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant",
+      "Tea/coffee machine",
+      "Room service",
+      "+24 more"
+    ],
+
+    "createdAt": "2022-04-27T17:16:47.437Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      },
+      {
+        "name": "jhon doe",
+        "rating": 5
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/60Vf2VY/hotel-img01.png",
+    "detailPhoto1": "https://i.ibb.co/sj2TTyK/pexels-pixabay-164595.jpg",
+    "detailPhoto2": "https://i.ibb.co/qRr7qKW/pexels-pixabay-460537-1.jpg",
+    "detailPhoto3": "https://i.ibb.co/Dt6DGPt/pexels-pixabay-271639.jpg",
+    "detailPhoto4": "https://i.ibb.co/w626JdG/pexels-pixabay-258154.jpg",
+    "featured": true
+  },
+  {
+    "country": "Melbourne",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Sydney, Australia",
+    "price": 104,
+    "room": 1,
+    "guests": 3,
+    "freeInternet": "Free internet",
+    "fitness": "Fitness",
+    "pool": "Pool",
+    "normalRoom": "1 bed or 1 twin beds",
+    "deluxeRoom": "2 bed or 1 twin beds, city view",
+    "normalPrice": 150,
+    "deluxePrice": 250,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant",
+      "Room service",
+      "+24 more"
+    ],
+    "createdAt": "2022-12-07T16:21:57.091Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/4VN0bdy/hotel-img02.png",
+    "detailPhoto1": "https://i.ibb.co/PhJRfFt/pexels-donald-tong-189296.jpg",
+    "detailPhoto2": "https://i.ibb.co/7nzjFVM/pexels-pixabay-271624.jpg",
+    "detailPhoto3": "https://i.ibb.co/z4vGWqj/pexels-pixabay-261102.jpg",
+    "detailPhoto4": "https://i.ibb.co/MPGR11X/pexels-thorsten-technoman-338504.jpg",
+    "featured": true
+  },
+  {
+    "country": "Melbourne",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Baku, Azerbaijan",
+    "price": 120,
+    "room": 2,
+    "guests": 6,
+    "freeInternet": "Free internet",
+    "fitness": "Fitness",
+    "pool": "Pool",
+    "normalRoom": "1 bed or 1 twin beds",
+    "deluxeRoom": "3 bed or 2 twin beds, city view",
+    "normalPrice": 110,
+    "deluxePrice": 350,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant"
+    ],
+    "createdAt": "2022-06-27T19:12:00.631Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/f29LYBj/hotel-img04.png",
+    "detailPhoto1": "https://i.ibb.co/GVk3q3L/pexels-engin-akyurt-1579253.jpg",
+    "detailPhoto2": "https://i.ibb.co/jDL0dDb/pexels-konstantinos-eleftheriadis-2034335.jpg",
+    "detailPhoto3": "https://i.ibb.co/njzCmyk/pexels-pixabay-271618.jpg",
+    "detailPhoto4": "https://i.ibb.co/J2QTL3N/pexels-chan-walrus-941861.jpg",
+    "featured": false
+  },
+  {
+    "country": "Melbourne",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Malé, Maldives",
+    "price": 305,
+    "room": 2,
+    "guests": 5,
+    "freeBreakFast": "Free breakfast",
+    "freeAirportShuttle": "Free airport shuttle",
+    "pool": "Pool",
+    "normalRoom": "2 bed or 1 twin beds",
+    "deluxeRoom": "2 bed or 3 twin beds, city view",
+    "normalPrice": 250,
+    "deluxePrice": 300,
+    "createdAt": "2022-12-25T18:34:24.744Z",
+    "amenities": [
+      "Fitness center",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant",
+      "Room service",
+      "+24 more"
+    ],
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/09ddrXW/hotel-img03.png",
+    "detailPhoto1": "https://i.ibb.co/fXRxdWq/pexels-iv-n-rivero-1001965.jpg",
+    "detailPhoto2": "https://i.ibb.co/bBV8YYy/pexels-pixabay-221457-Copy.jpg",
+    "detailPhoto3": "https://i.ibb.co/0C7XyXb/pexels-asman-chema-594077.jpg",
+    "detailPhoto4": "https://i.ibb.co/RzP7RyW/pexels-pixabay-279746.jpg",
+    "featured": true
+  },
+
+  {
+    "country": "Paris",
+    "title": "CVK Park Bosphorus Hotel Istanbul",
+    "city": "Paris, France",
+    "price": 240,
+    "room": 3,
+    "guests": 5,
+    "freeBreakFast": "Free breakfast",
+    "freeAirportShuttle": "Free airport shuttle",
+    "airConditioned": "Air conditioned",
+    "normalRoom": "1 bed or 2 twin beds",
+    "deluxeRoom": "3 bed or 2 twin beds, city view",
+    "normalPrice": 200,
+    "deluxePrice": 300,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi"
+    ],
+    "createdAt": "2022-07-31T06:38:18.655Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the  ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      },
+      {
+        "name": "jhon doe",
+        "rating": 5
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/4VN0bdy/hotel-img02.png",
+    "detailPhoto1": "https://i.ibb.co/sj2TTyK/pexels-pixabay-164595.jpg",
+    "detailPhoto2": "https://i.ibb.co/qRr7qKW/pexels-pixabay-460537-1.jpg",
+    "detailPhoto3": "https://i.ibb.co/Dt6DGPt/pexels-pixabay-271639.jpg",
+    "detailPhoto4": "https://i.ibb.co/w626JdG/pexels-pixabay-258154.jpg",
+    "featured": true
+  },
+  {
+    "country": "Paris",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "New York, US",
+    "price": 104,
+    "room": 4,
+    "guests": 12,
+    "pool": "Pool",
+    "normalRoom": "3 bed or 2 twin beds",
+    "deluxeRoom": "3 bed or 1 twin beds, city view",
+    "normalPrice": 300,
+    "deluxePrice": 350,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Restaurant",
+      "Room service",
+      "+24 more"
+    ],
+    "createdAt": "2022-08-22T19:50:05.129Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/f29LYBj/hotel-img04.png",
+    "detailPhoto1": "https://i.ibb.co/PhJRfFt/pexels-donald-tong-189296.jpg",
+    "detailPhoto2": "https://i.ibb.co/7nzjFVM/pexels-pixabay-271624.jpg",
+    "detailPhoto3": "https://i.ibb.co/z4vGWqj/pexels-pixabay-261102.jpg",
+    "detailPhoto4": "https://i.ibb.co/MPGR11X/pexels-thorsten-technoman-338504.jpg",
+    "featured": true
+  },
+  {
+    "country": "Paris",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "London, UK",
+    "price": 120,
+    "room": 1,
+    "guests": 2,
+    "freeAirportShuttle": "Free airport shuttle",
+    "airConditioned": "Air conditioned",
+    "pool": "Pool",
+    "normalRoom": "1 bed or 2 twin beds",
+    "deluxeRoom": "2 bed or 4 twin beds, city view",
+    "normalPrice": 180,
+    "deluxePrice": 300,
+    "amenities": [
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant",
+      "Room service",
+      "+24 more"
+    ],
+    "createdAt": "2022-10-11T14:37:10.141Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/09ddrXW/hotel-img03.png",
+    "detailPhoto1": "https://i.ibb.co/GVk3q3L/pexels-engin-akyurt-1579253.jpg",
+    "detailPhoto2": "https://i.ibb.co/jDL0dDb/pexels-konstantinos-eleftheriadis-2034335.jpg",
+    "detailPhoto3": "https://i.ibb.co/njzCmyk/pexels-pixabay-271618.jpg",
+    "detailPhoto4": "https://i.ibb.co/J2QTL3N/pexels-chan-walrus-941861.jpg",
+    "featured": false
+  },
+  {
+    "country": "Paris",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Tokyo, Japan",
+    "price": 305,
+    "room": 3,
+    "guests": 7,
+    "freeInternet": "Free internet",
+    "airConditioned": "Air conditioned",
+    "fitness": "Fitness",
+    "pool": "Pool",
+    "normalRoom": "4 bed or 2 twin beds",
+    "deluxeRoom": "4 bed or 1 twin beds, city view",
+    "normalPrice": 450,
+    "deluxePrice": 400,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi"
+    ],
+    "createdAt": "2022-11-18T10:50:09.626Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/60Vf2VY/hotel-img01.png",
+    "detailPhoto1": "https://i.ibb.co/fXRxdWq/pexels-iv-n-rivero-1001965.jpg",
+    "detailPhoto2": "https://i.ibb.co/bBV8YYy/pexels-pixabay-221457-Copy.jpg",
+    "detailPhoto3": "https://i.ibb.co/0C7XyXb/pexels-asman-chema-594077.jpg",
+    "detailPhoto4": "https://i.ibb.co/RzP7RyW/pexels-pixabay-279746.jpg",
+    "featured": true
+  },
+
+  {
+    "country": "London",
+    "title": "CVK Park Bosphorus Hotel Istanbul",
+    "city": "Istanbul, Turkey",
+    "price": 240,
+    "room": 3,
+    "guests": 6,
+    "freeBreakFast": "Free breakfast",
+    "freeInternet": "Free internet",
+    "normalRoom": "5 bed or 1 twin beds",
+    "deluxeRoom": "4 bed or 3 twin beds, city view",
+    "normalPrice": 510,
+    "deluxePrice": 600,
+    "createdAt": "2022-10-03T02:16:45.379Z",
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant"
+    ],
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the  ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      },
+      {
+        "name": "jhon doe",
+        "rating": 5
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/4VN0bdy/hotel-img02.png",
+    "detailPhoto1": "https://i.ibb.co/sj2TTyK/pexels-pixabay-164595.jpg",
+    "detailPhoto2": "https://i.ibb.co/qRr7qKW/pexels-pixabay-460537-1.jpg",
+    "detailPhoto3": "https://i.ibb.co/Dt6DGPt/pexels-pixabay-271639.jpg",
+    "detailPhoto4": "https://i.ibb.co/w626JdG/pexels-pixabay-258154.jpg",
+    "featured": true
+  },
+  {
+    "country": "London",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Dubai, UAE",
+    "price": 104,
+    "room": 5,
+    "guests": 12,
+    "freeBreakFast": "Free breakfast",
+    "freeInternet": "Free internet",
+    "normalRoom": "2 bed or 3 twin beds",
+    "deluxeRoom": "3 bed or 1 twin beds, city view",
+    "normalPrice": 250,
+    "deluxePrice": 300,
+    "createdAt": "2022-07-16T00:42:22.049Z",
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Room service",
+      "+24 more"
+    ],
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/f29LYBj/hotel-img04.png",
+    "detailPhoto1": "https://i.ibb.co/PhJRfFt/pexels-donald-tong-189296.jpg",
+    "detailPhoto2": "https://i.ibb.co/7nzjFVM/pexels-pixabay-271624.jpg",
+    "detailPhoto3": "https://i.ibb.co/z4vGWqj/pexels-pixabay-261102.jpg",
+    "detailPhoto4": "https://i.ibb.co/MPGR11X/pexels-thorsten-technoman-338504.jpg",
+    "featured": true
+  },
+  {
+    "country": "London",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Istanbul, Turkey",
+    "price": 120,
+    "room": 1,
+    "guests": 2,
+    "fitness": "Fitness",
+    "pool": "Pool",
+    "normalRoom": "1 bed or 2 twin beds",
+    "deluxeRoom": "3 bed or 1 twin beds, city view",
+    "normalPrice": 200,
+    "deluxePrice": 300,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Restaurant",
+      "Room service",
+      "+24 more"
+    ],
+    "createdAt": "2022-05-26T18:59:15.067Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/60Vf2VY/hotel-img01.png",
+    "detailPhoto1": "https://i.ibb.co/GVk3q3L/pexels-engin-akyurt-1579253.jpg",
+    "detailPhoto2": "https://i.ibb.co/jDL0dDb/pexels-konstantinos-eleftheriadis-2034335.jpg",
+    "detailPhoto3": "https://i.ibb.co/njzCmyk/pexels-pixabay-271618.jpg",
+    "detailPhoto4": "https://i.ibb.co/J2QTL3N/pexels-chan-walrus-941861.jpg",
+    "featured": false
+  },
+  {
+    "country": "London",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Sydney, Australia",
+    "price": 305,
+    "room": 4,
+    "guests": 9,
+    "airConditioned": "Air conditioned",
+    "fitness": "Fitness",
+    "normalRoom": "1 bed or 1 twin beds",
+    "deluxeRoom": "2 bed or 2 twin beds, city view",
+    "normalPrice": 120,
+    "deluxePrice": 220,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant",
+      "Room service",
+      "+24 more"
+    ],
+    "createdAt": "2022-09-29T07:48:30.813Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/09ddrXW/hotel-img03.png",
+    "detailPhoto1": "https://i.ibb.co/fXRxdWq/pexels-iv-n-rivero-1001965.jpg",
+    "detailPhoto2": "https://i.ibb.co/bBV8YYy/pexels-pixabay-221457-Copy.jpg",
+    "detailPhoto3": "https://i.ibb.co/0C7XyXb/pexels-asman-chema-594077.jpg",
+    "detailPhoto4": "https://i.ibb.co/RzP7RyW/pexels-pixabay-279746.jpg",
+    "featured": true
+  },
+
+  {
+    "country": "Columbia",
+    "title": "CVK Park Bosphorus Hotel Istanbul",
+    "city": "Istanbul, Turkey",
+    "price": 240,
+    "room": 3,
+    "guests": 9,
+    "fitness": "Fitness",
+    "pool": "Pool",
+    "normalRoom": "1 bed or 1 twin beds",
+    "deluxeRoom": "2 bed or 2 twin beds, city view",
+    "normalPrice": 120,
+    "deluxePrice": 220,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant",
+      "Room service",
+      "+24 more"
+    ],
+    "createdAt": "2023-02-14T09:11:42.281Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the  ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      },
+      {
+        "name": "jhon doe",
+        "rating": 5
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/4VN0bdy/hotel-img02.png",
+    "detailPhoto1": "https://i.ibb.co/sj2TTyK/pexels-pixabay-164595.jpg",
+    "detailPhoto2": "https://i.ibb.co/qRr7qKW/pexels-pixabay-460537-1.jpg",
+    "detailPhoto3": "https://i.ibb.co/Dt6DGPt/pexels-pixabay-271639.jpg",
+    "detailPhoto4": "https://i.ibb.co/w626JdG/pexels-pixabay-258154.jpg",
+    "featured": true
+  },
+  {
+    "country": "Columbia",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Sydney, Australia",
+    "price": 104,
+    "room": 5,
+    "guests": 20,
+    "freeInternet": "Free internet",
+    "pool": "Pool",
+    "normalRoom": "2 bed or 1 twin beds",
+    "deluxeRoom": "2 bed or 3 twin beds, city view",
+    "normalPrice": 190,
+    "deluxePrice": 240,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant"
+    ],
+    "createdAt": "2022-08-06T14:14:55.406Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/60Vf2VY/hotel-img01.png",
+    "detailPhoto1": "https://i.ibb.co/PhJRfFt/pexels-donald-tong-189296.jpg",
+    "detailPhoto2": "https://i.ibb.co/7nzjFVM/pexels-pixabay-271624.jpg",
+    "detailPhoto3": "https://i.ibb.co/z4vGWqj/pexels-pixabay-261102.jpg",
+    "detailPhoto4": "https://i.ibb.co/MPGR11X/pexels-thorsten-technoman-338504.jpg",
+    "featured": true
+  },
+  {
+    "country": "Columbia",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Paris, France",
+    "price": 120,
+    "room": 1,
+    "guests": 1,
+    "airConditioned": "Air conditioned",
+    "pool": "Pool",
+    "normalRoom": "4 bed or 1 twin beds",
+    "deluxeRoom": "2 bed or 2 twin beds, city view",
+    "normalPrice": 400,
+    "deluxePrice": 220,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant",
+      "Room service",
+      "+24 more"
+    ],
+    "createdAt": "2022-06-29T01:34:38.910Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/f29LYBj/hotel-img04.png",
+    "detailPhoto1": "https://i.ibb.co/GVk3q3L/pexels-engin-akyurt-1579253.jpg",
+    "detailPhoto2": "https://i.ibb.co/jDL0dDb/pexels-konstantinos-eleftheriadis-2034335.jpg",
+    "detailPhoto3": "https://i.ibb.co/njzCmyk/pexels-pixabay-271618.jpg",
+    "detailPhoto4": "https://i.ibb.co/J2QTL3N/pexels-chan-walrus-941861.jpg",
+    "featured": false
+  },
+  {
+    "country": "Columbia",
+    "title": "Eresin Hotels Sultanahmet - Boutique class",
+    "city": "Sydney, Australia",
+    "price": 305,
+    "room": 4,
+    "guests": 6,
+    "freeAirportShuttle": "Free airport shuttle",
+    "airConditioned": "Air conditioned",
+    "fitness": "Fitness",
+    "normalRoom": "2 bed or 1 twin beds",
+    "deluxeRoom": "3 bed or 2 twin beds, city view",
+    "normalPrice": 180,
+    "deluxePrice": 250,
+    "amenities": [
+      "Outdoor pool",
+      "Fitness center",
+      "Indoor pool",
+      "Bar/Lounge",
+      "Bar/Lounge",
+      "Free Wi-Fi",
+      "Restaurant",
+      "Room service",
+      "+24 more"
+    ],
+    "createdAt": "2022-04-03T12:30:25.895Z",
+    "desc": "Located in Taksim Gmsuyu, the heart of Istanbul, the CVK Park Bosphorus Hotel Istanbul has risen from the ashes of the historic Park Hotel, which also served as Foreign Affairs Palace 120 years ago and is hosting its guests by assuming this hospitality mission. With its 452 luxurious rooms and suites, 8500 m2 SPA and fitness area, 18 meeting rooms including 4 dividable ones and 3 terraces with Bosphorus view, Istanbuls largest terrace with Bosphorus view (4500 m2) and latest technology infrastructure, CVK Park Bosphorus Hotel Istanbul is destined to be the popular attraction point of the ",
+    "reviews": [
+      {
+        "name": "jhon doe",
+        "rating": 4.6
+      }
+    ],
+    "avgRating": 4.5,
+    "cafe": 20,
+    "photo": "https://i.ibb.co/09ddrXW/hotel-img03.png",
+    "detailPhoto1": "https://i.ibb.co/fXRxdWq/pexels-iv-n-rivero-1001965.jpg",
+    "detailPhoto2": "https://i.ibb.co/bBV8YYy/pexels-pixabay-221457-Copy.jpg",
+    "detailPhoto3": "https://i.ibb.co/0C7XyXb/pexels-asman-chema-594077.jpg",
+    "detailPhoto4": "https://i.ibb.co/RzP7RyW/pexels-pixabay-279746.jpg",
+    "featured": true
+  }
+]

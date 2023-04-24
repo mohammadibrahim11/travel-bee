@@ -1,0 +1,9 @@
+@media screen and (max-width: 576px) {
+  .card-body .d-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 15px;
+  }
+}

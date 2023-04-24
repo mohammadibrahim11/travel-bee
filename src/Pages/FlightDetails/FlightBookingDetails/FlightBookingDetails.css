@@ -1,0 +1,24 @@
+@media screen and (max-width: 576px) {
+  .booking-details-section .book-detail {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+  }
+  .booking-details-section h2 {
+    padding-top: 100px;
+  }
+}
+@media screen and (min-width: 577px) and (max-width: 991px) {
+  .booking-details-section .book-detail {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+  }
+  .booking-details-section h2 {
+    padding-top: 100px;
+  }
+}

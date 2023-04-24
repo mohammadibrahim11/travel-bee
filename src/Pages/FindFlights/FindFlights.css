@@ -1,0 +1,237 @@
+.search-section {
+  display: flex;
+  /* grid-template-columns: repeat(7, 1fr); */
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  /* width: 50%; */
+  padding-top: 7%;
+}
+
+/* .search-section-container {
+  height: 220px;
+  background: #ffffff;
+  box-shadow: 0px 4px 16px rgba(17, 34, 17, 0.05);
+  border-radius: 16px;
+  margin-top: -7%;
+} */
+
+.flight-header-section {
+  background-image: url(https://i.ibb.co/mNQ78R4/filght-img.jpg);
+  width: 100%;
+  height: 537px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.select-option {
+  width: 100%;
+  border: 1px solid grey;
+  padding: 2px;
+  border-radius: 5px;
+}
+
+.datepicker {
+  font-size: 14.5px;
+  padding: 2px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+#Trip {
+  font-size: 14.5px;
+}
+
+#bookingclass {
+  font-size: 14.5px;
+}
+
+.flight-header-section h2 {
+  color: white;
+  text-align: center;
+  font-size: 52px;
+  font-weight: 700;
+  padding-top: 150px;
+}
+.flight-header-section p {
+  color: white;
+  opacity: 0.8;
+  text-align: center;
+  font-size: 15px;
+}
+
+/* fall into travel section */
+
+.fall-into-travel-header p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.fall-into-travel {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 14px;
+}
+.fall-into-travel .card {
+  width: 296px;
+  height: 350px;
+  /* background: url(../../Assets/maldives-best-all-inclusive-resorts-kudadoo-maldives-private-island.jpg); */
+  border-radius: 12px;
+}
+
+.fall-into-travel .card-title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}
+.fall-into-travel .card-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+  opacity: 0.7;
+}
+.fall-into-travel .btn-primary {
+  width: 200px;
+  background: #8dd3bb;
+  border-radius: 4px;
+  color: #000000;
+}
+.fall-into-travel .card-body {
+  margin-top: 200px;
+}
+
+.extra-section .card {
+  background-color: #8dd3bb;
+  height: 350px;
+}
+.extra-section .card-title {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 35px;
+  color: #112211;
+  width: 80%;
+}
+
+.extra-section .card-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 17px;
+  color: #112211;
+  margin-top: 8%;
+}
+
+.extra-section .btn {
+  gap: 4px;
+  background: #ffffff;
+  border-radius: 4px;
+  margin-top: 10%;
+}
+.extra-img {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: space-between;
+  align-items: center;
+  row-gap: 19px;
+  column-gap: 17px;
+  margin-bottom: 80px;
+}
+
+@media screen and (max-width: 576px) {
+  .fall-into-travel {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 14px;
+  }
+  .extra-section .card-title {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 35px;
+    color: #112211;
+    width: 100%;
+  }
+
+  .extra-section .btn {
+    gap: 4px;
+    background: #ffffff;
+    border-radius: 4px;
+    margin-top: 2%;
+  }
+
+  .extra-img {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: space-evenly;
+    align-items: center;
+    row-gap: 19px;
+    column-gap: 17px;
+    margin-bottom: 80px;
+  }
+  .flight-header-section h2 {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    padding-top: 180px;
+    width: 100%;
+  }
+  .flight-header-section .w-50 {
+    width: 75% !important;
+
+  }
+  .flight-header-section p {
+    color: white;
+    opacity: 0.8;
+    text-align: center;
+    font-size: 15px;
+  }
+}
+@media screen and (min-width: 577px) and (max-width: 991px) {
+  .fall-into-travel {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-evenly;
+    align-items: center;
+    row-gap: 14px;
+    /* gap: 14px; */
+  }
+
+  .extra-section .btn {
+    gap: 4px;
+    background: #ffffff;
+    border-radius: 4px;
+    margin-top: 2%;
+  }
+
+  .extra-img {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: space-evenly;
+    align-items: center;
+    row-gap: 19px;
+    column-gap: 17px;
+    margin-bottom: 80px;
+  }
+  .flight-header-section .w-50 {
+    width: 75% !important;
+    margin-top: 25px;
+  }
+  .flight-header-section h2 {
+    color: white;
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+    padding-top: 180px;
+    width: 100%;
+  }
+}

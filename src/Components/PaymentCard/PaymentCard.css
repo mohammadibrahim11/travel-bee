@@ -1,0 +1,27 @@
+.payment-card {
+  width: 30%;
+  margin: auto;
+  border: 1px solid greenyellow;
+  border-radius: 7px;
+  padding: 45px 45px;
+  /* margin-bottom: 45px; */
+}
+
+@media screen and (max-width: 576px) {
+  .payment-card {
+    width: 90%;
+    margin: auto;
+    border: 1px solid greenyellow;
+    border-radius: 7px;
+    padding: 35px 35px;
+  }
+}
+@media screen and (min-width: 577px) and (max-width: 991px) {
+  .payment-card {
+    width: 80%;
+    margin: auto;
+    border: 1px solid greenyellow;
+    border-radius: 7px;
+    padding: 55px 35px;
+  }
+}

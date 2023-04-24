@@ -1,0 +1,27 @@
+.guide-card .card-title {
+  font-size: 15px;
+  font-weight: 600;
+  color: #000000;
+}
+.guide-card .card-text {
+  font-size: 12.7px;
+  font-weight: 600;
+  color: #112211;
+}
+
+.guide-card .guide-rate {
+  font-size: 18px;
+  color: #8dd3bb;
+  font-weight: 600;
+}
+.guide-card .quote {
+  font-size: 10.9px;
+  color: #333333;
+  opacity: 0.5;
+  font-weight: 600;
+}
+
+/* .tour-guide-button{
+  font-size: 10px;
+
+} */

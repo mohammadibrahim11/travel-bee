@@ -1,0 +1,91 @@
+.flying__input {
+  background: #ffffff;
+  box-shadow: 0px 4px 16px rgba(17, 34, 17, 0.05);
+  border-radius: 16px;
+  padding: 32px 24px;
+}
+.input__box {
+  padding: 0px;
+  gap: 10px;
+  width: 240px;
+  height: 56px;
+  background: #ffffff;
+  border: 1px solid #79747e;
+  border-radius: 4px;
+  outline: none;
+  margin-left: -22px;
+}
+.price__box {
+  padding: 12px;
+  width: 173px;
+  height: 40px;
+  background: #ffffff;
+  border: 1px solid #79747e;
+  border-radius: 4px;
+  outline: none;
+}
+.enter__destination {
+  width: 344px;
+  height: 56px;
+  box-sizing: border-box;
+  border: 1px solid #79747e;
+  border-radius: 4px;
+  padding: 0px;
+  gap: 10px;
+  outline: none;
+  background: #ffffff;
+}
+.search {
+  font-size: 50px;
+  background: #8dd3bb;
+  border-radius: 4px;
+  padding: 10px;
+}
+.price__search {
+  font-size: 10px;
+  background: #8dd3bb;
+  border-radius: 4px;
+}
+
+.showing {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.all__places {
+  color: #ff8682;
+}
+
+/* =================================== */
+.filter {
+  font-weight: 600;
+  font-size: 20px;
+}
+.hotels {
+  background: #ffffff;
+  padding: 16px 24px;
+  box-shadow: 0px 4px 16px rgba(17, 34, 17, 0.05);
+  border-radius: 12px;
+}
+.hotel-list {
+  margin-top: 0;
+  text-align: left;
+}
+.title {
+  color: black;
+}
+.text {
+  color: black;
+}
+.starting h6 {
+  margin-left: 60px;
+}
+
+/* .show__more__results {
+  width: 840px;
+  height: 48px;
+  background: #112211;
+  border-radius: 4px;
+  color: #fff;
+} */

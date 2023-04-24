@@ -1,0 +1,13 @@
+.book-detail .card-subtitle{
+    color: salmon;
+    font-weight: 600;
+}
+
+.booking-form-header-title{
+    font-size: 32px;
+    font-weight: normal;
+    color: #112212;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}

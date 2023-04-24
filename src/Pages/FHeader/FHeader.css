@@ -1,0 +1,31 @@
+.fheader-title {
+  font-size: 38px;
+  font-weight: 400;
+  color: rgb(65, 64, 64);
+}
+
+.fheader-subtitle {
+  font-size: 18px;
+  color: gray;
+  font-weight: 600px;
+  text-transform: capitalize;
+}
+.fheader-bg {
+  /* .profile-header-section { */
+  background-image: 
+    /* linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0.6) 0%,
+        rgba(0, 0, 0, 0) 100%
+      ), */ url(https://i.ibb.co/VxqLkjC/profile-header.png);
+
+  width: 100vw;
+  height: 399px;
+  /* margin: auto; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #fafbfc;
+  margin-bottom: 15px;
+  /* } */
+}

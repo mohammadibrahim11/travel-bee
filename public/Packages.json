@@ -1,0 +1,334 @@
+[
+  {
+    "package-includes": {
+      "f1": "6 nights hotel accommodation",
+      "f2": "Daily continental Breakfast",
+      "f3": "Airport-Hotel-Airport transportation(PVT)",
+      "f4": "All Airport Transfers required to complete the program(in good model luxury vehicles).",
+      "f5": "English speaking guide on tours period",
+      "f6": "Sightseeing tours as per itinerary(including entrance fees, taxes & professional guiding)- SIC",
+      "f7": "Ferry tickets"
+    },
+    "package-excludes": {
+      "f1": "PCR Test before flight. PCR test price for per adult/child $21",
+
+      "f2": "Visa Fee and including service charge and health insurance",
+
+      "f3": "Airport-Hotel-Airport transportation(PVT)",
+
+      "f4": "any kinds of personal cost or others whice are not mentioned above"
+    },
+    "featured-img": "https://i.ibb.co/1zKsqsn/turkey-istanbul-aya-sofya.jpg",
+    "place-img": {
+      "img-1": "https://i.ibb.co/92bRF1g/turkey-istanbul-basilica-cistern.jpg",
+      "img-2": "https://i.ibb.co/yVH2xq9/turkey-istanbul-blue-mosque.jpg",
+      "img-3": "https://i.ibb.co/vc3DHG0/turkey-istanbul-interior-topkapi-palace.jpg",
+      "img-4": "https://i.ibb.co/mFNK4Vc/turkey-istanbul-archaeology-museum.jpg"
+    },
+    "category": "tour",
+    "stay": "07 days 06 nights ",
+    "ratings": "5",
+    "name": "Istanbul,Turkey",
+    "country-name": "TURKEY",
+    "package-price": {
+      "package-1": 400,
+      "package-2": 450,
+
+      "package-3": 510
+    },
+    "hotel-details": {
+      "hotel-1": "Grand Emin or Similar",
+      "hotel-2": "Avantagarde Taksim or Similar",
+      "hotel-3": "Cowne Plaza Old City or Similar"
+    },
+    "itinerary": {
+      "day-1": "Admire the Hagia Sophia (Aya Sofya) Mosque",
+      "day-2": "Explore Topkapı Palace (Topkapı Sarayı)",
+      "day-3": "Visit the Blue Mosque (Sultan Ahmet Cami)",
+      "day-4": "Head Underground at the Basilica Cistern (Yerebatan Sarnıçı)",
+      "day-5": "Check Out the Collection in Istanbul Archaeology Museum",
+      "day-6": "Shop in the Grand Bazaar (Kapalı Çarşı)",
+      "day-7": " Admire the Architecture of the Süleymaniye Mosque"
+    },
+
+    "payment-policy": {
+      "phase-1": "70% of the total package amount at the time of booking",
+      "phase-2": "30% of total package amount before seven days ot travel date"
+    },
+    "cancellation-policy": "The packages is non-refundable and non-changable (except air tickets), and air ticket re-issue or refund charges dependent on the airlines policy",
+    "Remarks": "package price applicable for travel with group only.package itinerary cab be changed which will be informed to travellers before travel. all services depend on subject to availability at the time of booking and packages cost can be changed upon room/hotel availability.any changes can occur without prior notice. No refund in case of unused services or lesser duration of stay.we have given a 5% discount on all our published packages , but no discount will be given to the EMI beneficiaries.For any kind of natural issues like if flight delay or missing luggage by airlines then  we will not be responsible for that."
+  },
+  {
+    "package-includes": {
+      "f1": "I nternational air ticket(economy class)",
+      "f2": "Accommodation in a comfortable three-star hotel, twin room with private facilities.",
+      "f3": "Daily continental Breakfast",
+      "f4": "All Airport Transfers required to complete the program(in good model luxury vehicles).",
+      "f5": "English speaking guide on tours period",
+      "f6": "Sightseeing tours as per itinerary(including entrance fees, taxes & professional guiding)- SIC",
+      "f7": "Professional Coach Driver",
+      "f8": "private Transfers: Airport-Hotel-Airport"
+    },
+    "package-excludes": {
+      "f1": "PCR Test before flight. PCR test price for per adult/child $21",
+
+      "f2": "Visa Fee and including service charge and health insurance",
+
+      "f3": "Airport-Hotel-Airport transportation(PVT)",
+
+      "f4": "any kinds of personal cost or others which are not mentioned above",
+      "f5": "any kinds of entry/admission fee or others which are not mentioned above."
+    },
+    "featured-img": "https://i.ibb.co/Ry3055j/france-basque-country.jpg",
+
+    "place-img": {
+      "img-1": "https://i.ibb.co/TTnTqDT/france-brittany.jpg",
+      "img-2": "https://i.ibb.co/Wcv1yWg/france-eiffel-tower.jpg",
+      "img-3": "https://i.ibb.co/VtnspK6/france-mont-saint-michel-2.jpg",
+      "img-4": "https://i.ibb.co/BfQBRW9/france-top-attractions-provence.jpg",
+      "img-5": "https://i.ibb.co/C1LZF2T/france-versailles.jpg"
+    },
+    "category": "tour",
+    "stay": "07 days 06 nights ",
+    "ratings": "4.9",
+    "name": "Paris,France",
+    "country-name": "France",
+    "package-price": {
+      "3-star": 210000,
+      "4-star": 250000,
+
+      "5-star": 310000
+    },
+
+    "hotel-details": {
+      "3-star": "Grand Emin or Similar",
+      "4-star": "Avantagarde Taksim or Similar",
+      "5-star": "Cowne Plaza Old City or Similar"
+    },
+
+    "itinerary": {
+      "day-1": "Eiffel Tower",
+      "day-2": "Hall Of Mirrors",
+      "day-3": "Biarritz sea beach,Mount saint michel",
+      "day-4": "Provence,Brittany"
+    },
+
+    "payment-policy": {
+      "phase-1": "70% of the total package amount at the time of booking",
+      "phase-2": "30% of total package amount before seven days ot travel date"
+    },
+    "cancellation-policy": "The packages is non-refundable and non-changable (except air tickets), and air ticket re-issue or refund charges dependent on the airlines policy",
+    "Remarks": "package price applicable for travel with group only.package itinerary cab be changed which will be informed to travellers before travel. all services depend on subject to availability at the time of booking and packages cost can be changed upon room/hotel availability.any changes can occur without prior notice. No refund in case of unused services or lesser duration of stay.we have given a 5% discount on all our published packages , but no discount will be given to the EMI beneficiaries.For any kind of natural issues like if flight delay or missing luggage by airlines then  we will not be responsible for that."
+  },
+  {
+    "package-includes": {
+      "f1": "International air ticket(economy class)",
+      "f2": "Accommodation in a comfortable three-star hotel, twin room with private facilities.",
+      "f3": "Daily buffet breakfast at hotel +04 Dinners in Srilanka",
+      "f4": "All Airport Transfers required to complete the program(in good model luxury vehicles).",
+      "f5": "English speaking guide on tours period",
+      "f6": "Sightseeing tours as per itinerary(including entrance fees, taxes & professional guiding)- SIC",
+      "f7": "Professional Coach Driver",
+      "f8": "private Transfers: Airport-Hotel-Airport",
+      "f9": "Fuel and local insurance for the vehicles"
+    },
+    "package-excludes": {
+      "f1": "PCR Test before flight. PCR test price for per adult/child $21",
+
+      "f2": "Visa Fee and including service charge and health insurance",
+
+      "f3": "Airport-Hotel-Airport transportation(PVT)",
+
+      "f4": "any kinds of personal cost or others which are not mentioned above",
+      "f5": "any kinds of entry/admission fee or others which are not mentioned above.",
+      "f6": "Meals outside of the stated meal plan",
+      "f7": "Maldives City tax & Tourism Fee:approx. usd 6 and 3/per night",
+      "f8": "Visa fee for Srilanka(ETA/Travel Approval)/inclued service charge"
+    },
+    "featured-img": "https://i.ibb.co/GWgXGCL/sri-lanka-best-places-to-visit-kandy.jpg",
+
+    "place-img": {
+      "img-1": "https://i.ibb.co/GWgXGCL/sri-lanka-best-places-to-visit-kandy.jpg",
+      "img-2": "https://i.ibb.co/sQfw4jT/sri-lanka-colombo-best-places-to-visit-galle-face-green.jpg",
+      "img-3": "https://i.ibb.co/x26JZDr/sri-lanka-colombo-best-places-to-visit-lotus-tower.jpg",
+      "img-4": "https://i.ibb.co/BfQBRW9/france-top-attractions-provence.jpg",
+      "img-5": "https://i.ibb.co/KVFtkF5/maldives-best-all-inclusive-resorts-kudadoo-maldives-private-island.jpg"
+    },
+    "category": "tour",
+    "stay": "07 days 06 nights ",
+    "ratings": "4.9",
+    "name": "Male,Colombo,Kandy",
+    "country-name": "Maldives,SriLanka",
+    "package-price": {
+      "package-1": 55000,
+      "package-2": 110000,
+
+      "package-3": 170000
+    },
+
+    "hotel-details": {
+      "3-star": {
+        "Maldives": "beach inn(see view room) or similar",
+        "colombo": "GHS or similar",
+        "kandy": "Gaga Addara or  similar"
+      },
+      "4-star": {
+        "Maldives": "Reethi Faru Resort(water villa) or Similar",
+        "colombo": "Z-Max Fairway or similar",
+        "kandy": "Hotel Thiland or similar"
+      },
+      "5-star": {
+        "Maldives": "Sheraton Maldives Full Moon Resort & Spa(Island cotage) or similar",
+        "colombo": "MovenPick or similar",
+        "kandy": "Mahaweli Reach or similar"
+      }
+    },
+
+    "itinerary": {
+      "day-1": "Dhaka-Maldives",
+      "day-2": "Maldives",
+      "day-3": "Maldives-Colombo",
+      "day-4": "Colombo",
+      "day-5": "Colombo/pinnawala/Kandy",
+      "day-6": "Kandy/Bentota/Colombo",
+      "day-7": "Colombo-Dhaka"
+    },
+
+    "payment-policy": {
+      "phase-1": "70% of the total package amount at the time of booking",
+      "phase-2": "30% of total package amount before seven days ot travel date"
+    },
+    "cancellation-policy": "The packages is non-refundable and non-changable (except air tickets), and air ticket re-issue or refund charges dependent on the airlines policy",
+    "Remarks": "package price applicable for travel with group only.package itinerary cab be changed which will be informed to travellers before travel. all services depend on subject to availability at the time of booking and packages cost can be changed upon room/hotel availability.any changes can occur without prior notice. No refund in case of unused services or lesser duration of stay.we have given a 5% discount on all our published packages , but no discount will be given to the EMI beneficiaries.For any kind of natural issues like if flight delay or missing luggage by airlines then  we will not be responsible for that."
+  },
+  {
+    "package-includes": {
+      "f1": "International air ticket(economy class)",
+      "f2": "Accommodation in a comfortable three-star hotel, twin room with private facilities.",
+      "f3": "Daily buffet breakfast at hotel +04 Dinners in Srilanka",
+      "f4": "All Airport Transfers required to complete the program(in good model luxury vehicles).",
+      "f5": "English speaking guide on tours period",
+      "f6": "Sightseeing tours as per itinerary(including entrance fees, taxes & professional guiding)- SIC",
+      "f7": "Professional Coach Driver",
+      "f8": "private Transfers: Airport-Hotel-Airport",
+      "f9": "Fuel and local insurance for the vehicles"
+    },
+    "package-excludes": {
+      "f1": "PCR Test before flight. PCR test price for per adult/child $21",
+
+      "f2": "Visa Fee and including service charge and health insurance",
+
+      "f3": "Airport-Hotel-Airport transportation(PVT)",
+
+      "f4": "any kinds of personal cost or others which are not mentioned above",
+      "f5": "any kinds of entry/admission fee or others which are not mentioned above.",
+      "f6": "Meals outside of the stated meal plan",
+      "f7": "Maldives City tax & Tourism Fee:approx. usd 6 and 3/per night",
+      "f8": "Visa fee for australia(ETA/Travel Approval)/inclued service charge"
+    },
+
+    "featured-img": "https://i.ibb.co/thVmDPv/austraila-new-south-wales-sydney-top-attractions-see-sydney-opera-house-dusk.jpg",
+
+    "place-img": {
+      "img-1": "https://i.ibb.co/DL3H49W/australia-new-south-wales-sydney-top-attractions-bask-sydneys-beaches-bilgola.jpg",
+      "img-2": "https://i.ibb.co/sQfw4jT/sri-lanka-colombo-best-places-to-visit-galle-face-green.jpg",
+      "img-3": "https://i.ibb.co/bK5LDCv/australia-sydney-circular-quay.jpg",
+      "img-4": "https://i.ibb.co/pK2B5QZ/australia-sydney-darling-harbour-2.jpg",
+      "img-5": "https://i.ibb.co/F5BkRvz/australia-sydney-royal-botanic-gardens.jpg"
+    },
+    "category": "tour",
+    "stay": "05 days",
+    "ratings": "4.9",
+    "name": "Sydney city tour",
+    "country-name": "Australia",
+    "package-price": {
+      "package-1": 69000,
+      "package-2": 110000,
+
+      "package-3": 170000
+    },
+
+    "hotel-details": {
+      "3-star": "Capital square Hotel"
+    },
+
+    "itinerary": {
+      "day-1": "Arrival",
+      "day-2": "Big bus sydney and bondi hop-on hop-off tour",
+      "day-3": "sydney opera house official guided walking tour",
+      "day-4": "sydney harbour dinner cruise",
+      "day-5": "Departure"
+    },
+
+    "payment-policy": {
+      "phase-1": "70% of the total package amount at the time of booking",
+      "phase-2": "30% of total package amount before seven days ot travel date"
+    },
+    "cancellation-policy": "The packages is non-refundable and non-changable (except air tickets), and air ticket re-issue or refund charges dependent on the airlines policy",
+    "Remarks": "package price applicable for travel with group only.package itinerary cab be changed which will be informed to travellers before travel. all services depend on subject to availability at the time of booking and packages cost can be changed upon room/hotel availability.any changes can occur without prior notice. No refund in case of unused services or lesser duration of stay.we have given a 5% discount on all our published packages , but no discount will be given to the EMI beneficiaries.For any kind of natural issues like if flight delay or missing luggage by airlines then  we will not be responsible for that."
+  },
+  {
+    "package-includes": {
+      "f1": "International air ticket(economy class)",
+      "f2": "Accommodation in a comfortable three-star hotel, twin room with private facilities.",
+      "f3": "Daily buffet breakfast at hotel +04 Dinners in Srilanka",
+      "f4": "All Airport Transfers required to complete the program(in good model luxury vehicles).",
+      "f5": "English speaking guide on tours period",
+      "f6": "Sightseeing tours as per itinerary(including entrance fees, taxes & professional guiding)- SIC",
+      "f7": "Professional Coach Driver",
+      "f8": "private Transfers: Airport-Hotel-Airport",
+      "f9": "Fuel and local insurance for the vehicles"
+    },
+    "package-excludes": {
+      "f1": "International air ticket(economy class)",
+
+      "f2": "Visa Fee and including service charge and health insurance",
+
+      "f3": "Airport-Hotel-Airport transportation(PVT)",
+
+      "f4": "any kinds of personal cost or others which are not mentioned above",
+      "f5": "any kinds of entry/admission fee or others which are not mentioned above.",
+      "f6": "Meals outside of the stated meal plan",
+      "f7": "Maldives City tax & Tourism Fee:approx. usd 6 and 3/per night",
+      "f8": "Visa fee for baku(ETA/Travel Approval)/inclued service charge"
+    },
+
+    "featured-img": "https://i.ibb.co/prpD27q/baku.png",
+
+    "place-img": {
+      "img-1": "https://i.ibb.co/p2PB02B/Baku.webp",
+      "img-2": "https://i.ibb.co/KxcYGzh/Goyazan-Mountain.webp",
+      "img-3": "https://i.ibb.co/tcsxXLt/Lake-Goygol.webp"
+    },
+    "category": "tour",
+    "stay": "05 days",
+    "ratings": "4.9",
+    "name": "Baku,Azarbaizan",
+    "country-name": "Azarbaizan",
+    "package-price": {
+      "package-1": 59000,
+      "package-2": 90000,
+
+      "package-3": 120000
+    },
+
+    "hotel-details": {
+      "3-star": "Amber Hotel or 3-star similar Hotel"
+    },
+
+    "itinerary": {
+      "day-1": "Dhaka-Baku",
+      "day-2": "Full day baku",
+      "day-3": "Gabala & shamakhi Group tour",
+      "day-4": "Gobustal and absheron tour",
+      "day-5": "Baku-dhaka"
+    },
+
+    "payment-policy": {
+      "phase-1": "70% of the total package amount at the time of booking",
+      "phase-2": "30% of total package amount before seven days ot travel date"
+    },
+    "cancellation-policy": "The packages is non-refundable and non-changable (except air tickets), and air ticket re-issue or refund charges dependent on the airlines policy",
+    "Remarks": "package price applicable for travel with group only.package itinerary cab be changed which will be informed to travellers before travel. all services depend on subject to availability at the time of booking and packages cost can be changed upon room/hotel availability.any changes can occur without prior notice. No refund in case of unused services or lesser duration of stay.we have given a 5% discount on all our published packages , but no discount will be given to the EMI beneficiaries.For any kind of natural issues like if flight delay or missing luggage by airlines then  we will not be responsible for that."
+  }
+]
